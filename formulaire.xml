@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<customer>
+    <personn number="0">
+        <name>Yborra</name>
+        <firstName>Amandine</firstName>
+        <age>30</age>
+        <profession>Capitaine Enterprise</profession>
+        <email>enterprise-kirkSpok@gmail.com</email>
+        <phone>0944617590</phone>
+    </personn>
+    <personn number="1">
+        <name>Domingues</name>
+        <firstName>Chris</firstName>
+        <age>24</age>
+        <profession>Apache Hélicoptère</profession>
+        <email>x83bd4rkSasuke66@gmail.com</email>
+        <phone>0729472561</phone>
+    </personn>
+    <personn number="2">
+        <name>Pineiro</name>
+        <firstName>Thomas</firstName>
+        <age>23</age>
+        <profession>Contrebandier</profession>
+        <email>xXx-swaglord-xXx@gmail.com</email>
+        <phone>0816403520</phone>
+    </personn>
+    <personn number="3">
+        <name>Dochez</name>
+        <firstName>Florent</firstName>
+        <age>23</age>
+        <profession>Princesse Licorne</profession>
+        <email>princesselicorne-XxX@gmail.com</email>
+        <phone>0174625868</phone>
+    </personn>
+    <personn number="4">
+        <name>Laouiti</name>
+        <firstName>Nassim</firstName>
+        <age>29</age>
+        <profession>Général Commandant Suprême de la Galaxie (Thanos)</profession>
+        <email>thanos-pierresInfinites@gmail.com</email>
+        <phone>0829447281</phone>
+    </personn>
+</customer>
